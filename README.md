@@ -1,1 +1,2 @@
 # odin-recipes
+My recipe test project will allow me to develop a functional webpage that combines the skils of creating a Git repository, an html webpage, and utilizing several html elements and attributes that help to add complexity to the page.  
